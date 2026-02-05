@@ -1536,7 +1536,7 @@ MEDIA QUERIES FOR RESPONSIVE DESIGN
   main .trending .l {
     display: none;
   }
-  main .testmonial{
+  main .testmonial {
     padding: 50px 0;
   }
   /* Testimonial */
@@ -1600,11 +1600,11 @@ MEDIA QUERIES FOR RESPONSIVE DESIGN
   footer .footer-bottom p {
     text-align: center;
   }
-  .you-may-like{
+  .you-may-like {
     padding: 0px 0;
   }
-  .you-may-like .l, .r{
+  .you-may-like .l,
+  .r {
     display: none;
   }
 }
-
